@@ -5,7 +5,6 @@ rand_word =random.choice(word)
 display =len(rand_word)*"_"
 print(display)
 
-#قم باانشاء المعروض
 HANGMANPICS = ['''
   +---+
   |   |
